@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\URSA\Desktop\Entrega-IV---Recode-Pro-2022\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3404415920.index
+1368352623.index
+2801887413.index
+2870370056.index
+4061308526.index
